@@ -1,0 +1,51 @@
+
+header{
+    margin-top: 50px;
+}
+
+body{
+    background: #E8C5C5;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+footer{
+    margin-bottom: 30px;
+}
+
+h1{
+    color: red;
+    font-size: fantasy;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+p{
+    font-size: 18px;
+}
+
+.img_servicos{
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.img_clientes{
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.img_parceiros{
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.img_time{
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.img_contato{
+    width: 30px;
+}
